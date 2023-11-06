@@ -1,6 +1,6 @@
 # sentences-app
 
-App de las mejores frases de la famosa serie Breaking Bad.
+App de las mejores frases de la serie Breaking Bad.
 
 Para continuar a la siguiente frase, pulsar next quote.
 
